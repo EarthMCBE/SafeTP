@@ -1,0 +1,8 @@
+name: SafeTP
+main: com.wyattgahm.safetp.SafeTP
+version: "1.0.0"
+api: ["1.0.5"]
+load: POSTWORLD
+author: Wyatt Gahm
+description: Saves players that fall under the bedrock
+prefix: "SafeTP"
